@@ -1,0 +1,1 @@
+Maximum price is 314999, Minimum price is 15999 and Average price is 76346.36
